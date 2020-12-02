@@ -179,3 +179,7 @@ while (True):
         print("Goodbye!")
         input("Enter to Exit", )
         break  # and Exit
+        
+#### Listing 1a
+![Results of Listing 1a](https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig1a-ErrorHandling1.png "Results of Listing 1a")
+#### Listing 1a. The results of Listing 1a
