@@ -172,21 +172,21 @@ while (True):
 #### Listing 1a. The results of Listing 1a
 
 #### Listing 1b
-https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig1b-ErrorHandling2.png
+![Results of Listing 1b](https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig1b-ErrorHandling2.png "Results of Listing 1b")
 #### Listing 1b. The results of Listing 1b
 
 #### Listing 1c
-https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig1c-Pickling.png
+![Results of Listing 1c](https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig1c-Pickling.png "Results of Listing 1c")
 #### Listing 1c. The results of Listing 1c
 
 #### Listing 2
-https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig2-CommandWindow.png
+![Results of Listing 2](https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig2-CommandWindow.png "Results of Listing 2")
 #### Listing 2. The results of Listing 2
 
 #### Listing 3
-https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig3-ShellWindow.png
+![Results of Listing 3](https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig3-ShellWindow.png "Results of Listing 3")
 #### Listing 3. The results of Listing 3
 
 #### Listing 4
-https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig4-PickleFile.png?raw=true
+![Results of Listing 4](https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig4-PickleFile.png?raw=true "Results of Listing 4")
 #### Listing 4. The results of Listing 4
