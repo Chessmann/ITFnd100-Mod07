@@ -187,3 +187,7 @@ while (True):
 #### Listing 1b
 https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig1b-ErrorHandling2.png
 #### Listing 1b. The results of Listing 1b
+
+#### Listing 1c
+https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig1c-Pickling.png
+#### Listing 1c. The results of Listing 1c
