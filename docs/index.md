@@ -46,19 +46,6 @@ class Processor:
         except IOError as e:
             print(e, e.__doc__, sep='\n')
 
-    @staticmethod
-    def pickle_load_processing():
-
-        # open a file, where you stored the pickled data
-        file = open('pickle_file', 'rb')
-
-        # dump information to that file
-        data = pickle.load(file)
-
-        # close the file
-        file.close()
-        return data
-
 # Presentation (Input/Output)  -------------------------------------------- #
 class IO:
     """ Performs Input and Output error_handling_selections """
