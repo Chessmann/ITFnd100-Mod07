@@ -183,3 +183,7 @@ while (True):
 #### Listing 1a
 ![Results of Listing 1a](https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig1a-ErrorHandling1.png "Results of Listing 1a")
 #### Listing 1a. The results of Listing 1a
+
+#### Listing 1b
+https://github.com/Chessmann/ITFnd100-Mod07/blob/main/docs/Fig1b-ErrorHandling2.png
+#### Listing 1b. The results of Listing 1b
